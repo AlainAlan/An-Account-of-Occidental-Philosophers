@@ -12,3 +12,7 @@ Digitalized networks from Randall Collins's *The Sociology of Philosophies: A Gl
 > Copyright © 1998 by the President and Fellows of Harvard College
 
 复刻原书网络仅供个人学习使用。
+
+### TO DO
+- [ ] 校勘
+- [ ] 美化
