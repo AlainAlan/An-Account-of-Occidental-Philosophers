@@ -13,6 +13,8 @@ Digitalized networks from Randall Collins's *The Sociology of Philosophies: A Gl
 
 复刻原书网络仅供个人学习使用。
 
+又：借鉴了[这个](https://softwarerecs.stackexchange.com/questions/74288/tool-library-to-visualize-network-graph-timeline-graphviz-yed-like)以绘制时间轴。
+
 ### TO DO
 - [ ] 校勘
 - [ ] 美化
